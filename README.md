@@ -44,11 +44,11 @@ npm start
 ### ☁️ HOSTING CONSIGLIATI
 #### CAFIREXOS
 - **Dashboard:** [dash.cafirexos.com](https://dash.cafirexos.com)
-- **Supporto:** [Contatta](https://wa.me/50497150165)
+- **Supporto:** [Contatta](https://wa.me/393201448716)
 
 #### INFINITY-HOST
 - **Pannello:** [panel-infinitywa.store](https://panel-infinitywa.store)
-- **Supporto:** [WhatsApp](https://wa.me/527294888993)
+- **Supporto:** [WhatsApp](https://wa.me/393201448716)
 
 ---
 
