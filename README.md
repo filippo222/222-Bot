@@ -51,13 +51,13 @@ npm start
 
 
 
-### 💻 INSTALLAZIONE SU VPS/WINDOWS
+💻 INSTALLAZIONE SU VPS/WINDOWS
 
 git clone https://github.com/Filippo222/222Bot.git
 cd 222Bot
 npm install
 node .
-
+```
 
 
 
@@ -103,4 +103,3 @@ INFINITY-HOST	panel-infinitywa.store	WhatsApp
 <p align="center">
   <img src="https://i.ibb.co/YfWgYJg/222bot-preview.png" width="700">
 </p><p align="center"><i>✨ Il futuro dei bot WhatsApp è qui. Seguici. ✨</i></p>
-```
