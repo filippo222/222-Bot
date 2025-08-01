@@ -1,21 +1,20 @@
-!-- BANNER PRINCIPALE -->
+j!-- BANNER PRINCIPALE -->
 <p align="center">
   <img src="https://i.ibb.co/tZkP5sx/222bot-banner.png" width="700"/>
 </p>
 
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=🤖+222-BOT+BY+FILIPPO222;🚀+Bot+WhatsApp+in+Sviluppo;⚠️+NON+UTILIZZARE+IN+PRODUZIONE" alt="Typing SVG" /></h1>
 
----
 
-## ⚠️ ANCORA IN SVILUPPO – **NON FATE NIENTE**
+
+### ⚠️ ANCORA IN SVILUPPO – **NON FATE NIENTE**
 
 <p align="center">
   <a href="https://wa.me/393201448716"><img title="Contatta su WhatsApp" src="https://img.shields.io/badge/Contatta_Filippo-black?style=for-the-badge&logo=whatsapp"></a>
 </p>
 
----
 
-## 📊 STATS LIVE
+### 📊 STATS LIVE
 
 <p align="center"> 
   <a href="https://github.com/Filippo222"><img title="Followers" src="https://img.shields.io/github/followers/Filippo222?color=red&style=flat-square"></a> 
@@ -25,16 +24,15 @@
   <a href="https://github.com/Filippo222/222Bot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-YES-green.svg"></a>
 </p>
 
----
 
 <h2 align="center">💡 COSA È 222-BOT?</h2>
 
 > Un **bot WhatsApp multifunzione**, pensato per gruppi, business e power users.  
 > 💣 Anti-privato, 💬 Risposte automatiche, 📷 AI, 🧠 Comandi avanzati, e tanto altro!
 
----
 
-## 🔧 INSTALLAZIONE (TERMUX)
+
+### 🔧 INSTALLAZIONE (TERMUX)
 
 ```bash
 pkg update && pkg upgrade -y
@@ -51,9 +49,9 @@ rm -rf session
 npm start
 
 
----
 
-💻 INSTALLAZIONE SU VPS/WINDOWS
+
+### 💻 INSTALLAZIONE SU VPS/WINDOWS
 
 git clone https://github.com/Filippo222/222Bot.git
 cd 222Bot
@@ -61,9 +59,9 @@ npm install
 node .
 
 
----
 
-🌩️ HOSTING CONSIGLIATI
+
+### 🌩️ HOSTING CONSIGLIATI
 
 Provider	Pannello	Supporto
 
@@ -72,38 +70,21 @@ INFINITY-HOST	panel-infinitywa.store	WhatsApp
 
 
 
----
 
-🛠️ COMANDI RAPIDI
+
+### 🛠️ COMANDI RAPIDI
 
 .attiva antiprivato   ➜ Blocca i messaggi privati
 .ds                   ➜ Se il bot non risponde
 .menu                 ➜ Mostra tutti i comandi
 
 
----
-
-🧠 ROADMAP FUTURA
-
-[ ] Completamento del Core principale
-
-[ ] Protezione avanzata anti-ban
-
-[ ] Dashboard Web e API
-
-[ ] Hosting integrato
-
-[ ] Traduzioni automatiche
-
-[ ] Comandi AI avanzati
-
-[ ] Rilascio versione stabile
 
 
 
----
 
-📞 CONTATTI
+
+### 📞 CONTATTI
 
 👤 Sviluppatore: Filippo222
 
