@@ -56,6 +56,7 @@ npm start
 - Compatibile con WhatsApp normale e Business
 - Usa `.attiva antiprivato` per bloccare messaggi privati
 - Se il bot non risponde, usa `.ds` e attendi qualche istante
+- Se vedete qualche problema segnalate all'owner e i suoi collab
 
 ---
 
