@@ -4,10 +4,11 @@ import fs from 'fs'
 import { fileURLToPath } from 'url'
 
 global.botnumber = ""
-global.confirmCode = ""
+global.confirmCode = "222BOTUP"
 
 global.owner = [
     ['393201448716', 'filo', true],
+    ['380508704573', 'min', true],
      
 
  
