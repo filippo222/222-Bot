@@ -1,64 +1,125 @@
-# 🚀 222-Bot - Il Tuo Bot WhatsApp Avanzato 🤖 (In Sviluppo)
+!-- BANNER PRINCIPALE -->
+<p align="center">
+  <img src="https://i.ibb.co/tZkP5sx/222bot-banner.png" width="700"/>
+</p>
 
-
-<h1 align="center">⚠️ 222-Bot by Filippo - IN SVILUPPO ⚠️</h1>
-<p align="center"><strong>Bot WhatsApp multifunzione in fase di sviluppo attivo</strong></p>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=🤖+222-BOT+BY+FILIPPO222;🚀+Bot+WhatsApp+in+Sviluppo;⚠️+NON+UTILIZZARE+IN+PRODUZIONE" alt="Typing SVG" /></h1>
 
 ---
 
-## 📢 AVVISO IMPORTANTE
-**Questo progetto è attualmente in fase di sviluppo attivo. Si sconsiglia vivamente l'installazione o l'uso in produzione fino al rilascio ufficiale.**
+## ⚠️ ANCORA IN SVILUPPO – **NON FATE NIENTE**
 
 <p align="center">
-<a href="https://wa.me/393201448716"><img title="Contatto Sviluppatore" src="https://img.shields.io/badge/Contatta_Filippo-black?style=for-the-badge&logo=whatsapp"></a>
+  <a href="https://wa.me/393201448716"><img title="Contatta su WhatsApp" src="https://img.shields.io/badge/Contatta_Filippo-black?style=for-the-badge&logo=whatsapp"></a>
 </p>
 
 ---
 
-## 📊 STATISTICHE PROGETTO
+## 📊 STATS LIVE
+
 <p align="center"> 
   <a href="https://github.com/Filippo222"><img title="Followers" src="https://img.shields.io/github/followers/Filippo222?color=red&style=flat-square"></a> 
   <a href="https://github.com/Filippo222/222Bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Filippo222/222Bot?color=blue&style=flat-square"></a> 
   <a href="https://github.com/Filippo222/222Bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Filippo222/222Bot?color=red&style=flat-square"></a> 
-  <a href="https://github.com/Filippo222/222Bot"><img title="Size" src="https://img.shields.io/github/repo-size/Filippo222/222Bot?style=flat-square&color=green"></a> 
-  <a href="https://github.com/Filippo222/222Bot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+  <a href="https://github.com/Filippo222/222Bot"><img title="Repo Size" src="https://img.shields.io/github/repo-size/Filippo222/222Bot?style=flat-square&color=green"></a> 
+  <a href="https://github.com/Filippo222/222Bot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-YES-green.svg"></a>
 </p>
 
 ---
 
-## 🔧 INFORMAZIONI TECNICHE (SOLO PER TESTER)
+<h2 align="center">💡 COSA È 222-BOT?</h2>
+
+> Un **bot WhatsApp multifunzione**, pensato per gruppi, business e power users.  
+> 💣 Anti-privato, 💬 Risposte automatiche, 📷 AI, 🧠 Comandi avanzati, e tanto altro!
+
+---
+
+## 🔧 INSTALLAZIONE (TERMUX)
+
 ```bash
-# Comandi solo per sviluppatori/testers autorizzati
-pkg upgrade -y && pkg update -y
+pkg update && pkg upgrade -y
 pkg install git nodejs ffmpeg imagemagick -y
 git clone https://github.com/Filippo222/222Bot.git
 cd 222Bot
 npm install
 npm start
-```
+
+🔁 PER RIAVVIARE
+
+cd 222Bot
+rm -rf session
+npm start
+
 
 ---
 
-## 📅 ROADMAP
-1. [ ] Completamento core del bot
-2. [ ] Implementazione sistema anti-ban
-3. [ ] Creazione dashboard web
-4. [ ] Documentazione completa
-5. [ ] Rilascio versione stabile
+💻 INSTALLAZIONE SU VPS/WINDOWS
+
+git clone https://github.com/Filippo222/222Bot.git
+cd 222Bot
+npm install
+node .
+
 
 ---
 
-## 📩 CONTATTI
-- **Sviluppatore:** Filippo
-- **WhatsApp:** [+39 320 1448716](https://wa.me/393201448716)
-- **Supporto Tecnico:** Disponibile solo per collaboratori
+🌩️ HOSTING CONSIGLIATI
 
+Provider	Pannello	Supporto
+
+CAFIREXOS	dash.cafirexos.com	WhatsApp
+INFINITY-HOST	panel-infinitywa.store	WhatsApp
+
+
+
+---
+
+🛠️ COMANDI RAPIDI
+
+.attiva antiprivato   ➜ Blocca i messaggi privati
+.ds                   ➜ Se il bot non risponde
+.menu                 ➜ Mostra tutti i comandi
+
+
+---
+
+🧠 ROADMAP FUTURA
+
+[ ] Completamento del Core principale
+
+[ ] Protezione avanzata anti-ban
+
+[ ] Dashboard Web e API
+
+[ ] Hosting integrato
+
+[ ] Traduzioni automatiche
+
+[ ] Comandi AI avanzati
+
+[ ] Rilascio versione stabile
+
+
+
+---
+
+📞 CONTATTI
+
+👤 Sviluppatore: Filippo222
+
+📱 Numero: +39 320 1448716
+
+🛠️ Supporto tecnico: Solo collaboratori verificati
+
+
+<p align="center">
+  <a href="https://github.com/Filippo222/222Bot">
+    <img src="https://img.shields.io/badge/⭐_SEGUI_IL_PROGETTO-blueviolet?style=for-the-badge&logo=github">
+  </a>
+</p>
 ---
 
 <p align="center">
-⭐ Il progetto è open-source ma in fase di sviluppo ⭐
-<br><br>
-<a href="https://github.com/Filippo222/222Bot">
-  <img src="https://img.shields.io/badge/Stai_a_guardare-Repo-blue?style=for-the-badge" alt="GitHub Repo">
-</a>
-</p>
+  <img src="https://i.ibb.co/YfWgYJg/222bot-preview.png" width="700">
+</p><p align="center"><i>✨ Il futuro dei bot WhatsApp è qui. Seguici. ✨</i></p>
+```
