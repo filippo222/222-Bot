@@ -1,8 +1,5 @@
 # 🚀 222-Bot - Il Tuo Bot WhatsApp Avanzato 🤖 (In Sviluppo)
 
-<p align="center">
-  <img src="https://i.ibb.co/9mWwC5PP/Whats-App-Image-2025-07-06-at-23-32-06.jpg" width="400">
-</p>
 
 <h1 align="center">⚠️ 222-Bot by Filippo - IN SVILUPPO ⚠️</h1>
 <p align="center"><strong>Bot WhatsApp multifunzione in fase di sviluppo attivo</strong></p>
