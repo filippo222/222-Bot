@@ -1,4 +1,4 @@
-j!-- BANNER PRINCIPALE -->
+
 <p align="center">
   <img src="https://i.ibb.co/tZkP5sx/222bot-banner.png" width="700"/>
 </p>
