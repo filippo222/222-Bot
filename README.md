@@ -1,29 +1,37 @@
-### ANCORA IN FASE DI SVILUPPO NON FATE NIENTE
-<p align="center">
-<a href="https://wa.me/393201448716"><img title="Autore" src="https://img.shields.io/badge/222Bot-black?style=for-the-badge&logo=whatsapp"></a>
+# 🚀 222-Bot - Il Tuo Bot WhatsApp Avanzato 🤖 (In Sviluppo)
 
-<p align="center"> 
-<a href="https://github.com/Filippo222"><img title="𝐅𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬" src="https://img.shields.io/github/followers/Filippo222?color=red&style=flat-square"></a> 
-<a href="https://github.com/Filippo222/222Bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Filippo222/222Bot?color=blue&style=flat-square"></a> 
-<a href="https://github.com/Filippo222/222Bot/network/members"><img title="𝐅𝐨𝐫𝐤𝐬" src="https://img.shields.io/github/forks/Filippo222/222Bot?color=red&style=flat-square"></a> 
-<a href="https://github.com/Filippo222/222Bot"><img title="𝐒𝐢𝐳𝐞" src="https://img.shields.io/github/repo-size/Filippo222/222Bot?style=flat-square&color=green"></a> 
-<a href="https://github.com/Filippo222/222Bot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+<p align="center">
+  <img src="https://i.ibb.co/9mWwC5PP/Whats-App-Image-2025-07-06-at-23-32-06.jpg" width="400">
 </p>
 
-<h1 align="center">⚡ 222 BOT ⚡</h1>
-<p align="center">Bot WhatsApp multifunzione by Filippo222</p>
+<h1 align="center">⚠️ 222-Bot by Filippo - IN SVILUPPO ⚠️</h1>
+<p align="center"><strong>Bot WhatsApp multifunzione in fase di sviluppo attivo</strong></p>
 
 ---
 
-### 📌 INFORMAZIONI
-- **Autore:** Filippo222
-- **Numero:** [+39 320 1448716](https://wa.me/393201448716)
-- **Supporto:** Contatto WhatsApp diretto
+## 📢 AVVISO IMPORTANTE
+**Questo progetto è attualmente in fase di sviluppo attivo. Si sconsiglia vivamente l'installazione o l'uso in produzione fino al rilascio ufficiale.**
+
+<p align="center">
+<a href="https://wa.me/393201448716"><img title="Contatto Sviluppatore" src="https://img.shields.io/badge/Contatta_Filippo-black?style=for-the-badge&logo=whatsapp"></a>
+</p>
 
 ---
 
-### 🚀 INSTALLAZIONE TERMUX
+## 📊 STATISTICHE PROGETTO
+<p align="center"> 
+  <a href="https://github.com/Filippo222"><img title="Followers" src="https://img.shields.io/github/followers/Filippo222?color=red&style=flat-square"></a> 
+  <a href="https://github.com/Filippo222/222Bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Filippo222/222Bot?color=blue&style=flat-square"></a> 
+  <a href="https://github.com/Filippo222/222Bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Filippo222/222Bot?color=red&style=flat-square"></a> 
+  <a href="https://github.com/Filippo222/222Bot"><img title="Size" src="https://img.shields.io/github/repo-size/Filippo222/222Bot?style=flat-square&color=green"></a> 
+  <a href="https://github.com/Filippo222/222Bot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+</p>
+
+---
+
+## 🔧 INFORMAZIONI TECNICHE (SOLO PER TESTER)
 ```bash
+# Comandi solo per sviluppatori/testers autorizzati
 pkg upgrade -y && pkg update -y
 pkg install git nodejs ffmpeg imagemagick -y
 git clone https://github.com/Filippo222/222Bot.git
@@ -32,37 +40,28 @@ npm install
 npm start
 ```
 
-### 🔄 RIAVVIO BOT
-```bash
-cd 222Bot
-rm -rf session
-npm start
-```
+---
+
+## 📅 ROADMAP
+1. [ ] Completamento core del bot
+2. [ ] Implementazione sistema anti-ban
+3. [ ] Creazione dashboard web
+4. [ ] Documentazione completa
+5. [ ] Rilascio versione stabile
 
 ---
 
-### ☁️ HOSTING CONSIGLIATI
-#### CAFIREXOS
-- **Dashboard:** [dash.cafirexos.com](https://dash.cafirexos.com)
-- **Supporto:** [Contatta](https://wa.me/393201448716)
-
-#### INFINITY-HOST
-- **Pannello:** [panel-infinitywa.store](https://panel-infinitywa.store)
-- **Supporto:** [WhatsApp](https://wa.me/393201448716)
+## 📩 CONTATTI
+- **Sviluppatore:** Filippo
+- **WhatsApp:** [+39 320 1448716](https://wa.me/393201448716)
+- **Supporto Tecnico:** Disponibile solo per collaboratori
 
 ---
 
-### ⚠️ NOTE IMPORTANTI
-- Compatibile con WhatsApp normale e Business
-- Usa `.attiva antiprivato` per bloccare messaggi privati
-- Se il bot non risponde, usa `.ds` e attendi qualche istante
-- Se vedete qualche problema segnalate all'owner e i suoi collab
-
----
-
-### 💻 INSTALLAZIONE WINDOWS/VPS
-```bash
-git clone https://github.com/Filippo222/222Bot.git
-cd 222Bot
-npm install
-node .
+<p align="center">
+⭐ Il progetto è open-source ma in fase di sviluppo ⭐
+<br><br>
+<a href="https://github.com/Filippo222/222Bot">
+  <img src="https://img.shields.io/badge/Stai_a_guardare-Repo-blue?style=for-the-badge" alt="GitHub Repo">
+</a>
+</p>
